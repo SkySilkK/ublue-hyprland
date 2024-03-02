@@ -20,6 +20,15 @@ modules:
   - type: rpm-ostree
     repos: # - https://copr.fedorainfracloud.org/coprs/atim/starship/repo/fedora-%OS_VERSION%/atim-starship-fedora-%OS_VERSION%.repo
     install:
+      - hyprland
+      - xdg-desktop-portal-hyprland
+      - neovim
+      - waybar
+      - alacritty
+      - gammastep
+      - thunar
+      - swaync
+      - polkit-gnome
       # - micro
       # - starship
     remove:
