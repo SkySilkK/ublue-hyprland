@@ -27,7 +27,6 @@ modules:
       - alacritty
       - gammastep
       - thunar
-      - swaync
       - polkit-gnome
       # - micro
       # - starship
